@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="activity1_title">Activity 1 - VMA TH Köln</string>
+    <string name="activity2_title">Activity 2 - VMA TH Köln</string>
+    <string name="Activity2">Eingabe für Activity 2:</string>
+    <string name="Switch">GOTO ACTIVITY 2</string>
+    <string name="Eingabe">Eingabe von Activity 2</string>
+
+</resources>
